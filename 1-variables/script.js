@@ -11,3 +11,9 @@ console.log(hola)
 
 var hola="Hola mundo! x2"
 console.log(hola)
+
+var nombre="Kevin Doncel"
+console.log(nombre)
+
+var edad="20 años"
+console.log(edad)
